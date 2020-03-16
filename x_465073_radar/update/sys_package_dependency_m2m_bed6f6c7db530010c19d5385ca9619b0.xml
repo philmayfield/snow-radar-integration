@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Incident" source="com.snc.incident">b306cdbadbd30010c19d5385ca961948</dependency>
+        <dependency display_value="Incident" source="com.snc.incident">bf66afa807e30010fbdbf2508c1ed0f7</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-06 21:23:12</sys_created_on>

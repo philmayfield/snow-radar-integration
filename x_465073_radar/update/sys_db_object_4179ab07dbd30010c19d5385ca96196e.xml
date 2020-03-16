@@ -18,7 +18,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Authentication Configuration" name="sys_auth_profile">244109b2db130010c19d5385ca9619d6</super_class>
+        <super_class display_value="Authentication Configuration" name="sys_auth_profile">e9712ba007230010fbdbf2508c1ed0d6</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
